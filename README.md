@@ -10,3 +10,5 @@
 -4. Students marks analyzer:- It takes in student names, and their marks and stores it in dictionaries and also analyzes the max marks. it uses topics like 1. dictionaries 2. tuples 3. sets 4. dictionary, tuple and set methods.
 
 -5. Password Analyzer:- It takes user input for password and then gives it a score as weak, medium or strong, it uses topics of conditional loops like for loop and while loop.
+
+-6. Recursive Calculator:- Takes two numbers and performs addition, subtraction, mutliplication or division. It uses the topics of 1. input, 2. function 3. recursion. 
