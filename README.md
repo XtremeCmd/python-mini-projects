@@ -1,5 +1,5 @@
 # python-mini-projects
-“A collection of small Python projects built while learning Python, OOP, and Data Science.”
+“A collection of small Python projects built while learning Python, OOP, and DSA.”
 
 -1.Daily Expense Calulator:- This project calculates all your daily expenses, it uses these topics 1. variables 2. data types 3. input and output 4. basic operations. 
 
@@ -12,3 +12,5 @@
 -5. Password Analyzer:- It takes user input for password and then gives it a score as weak, medium or strong, it uses topics of conditional loops like for loop and while loop.
 
 -6. Recursive Calculator:- Takes two numbers and performs addition, subtraction, mutliplication or division. It uses the topics of 1. input, 2. function 3. recursion. 
+
+7. Student grade analyzer:- this project uses the topic of list comprehension and conditionals to grade students as per the marks scored by them.
