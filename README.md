@@ -14,3 +14,5 @@
 -6. Recursive Calculator:- Takes two numbers and performs addition, subtraction, mutliplication or division. It uses the topics of 1. input, 2. function 3. recursion. 
 
 -7. Student grade analyzer:- this project uses the topic of list comprehension and conditionals to grade students as per the marks scored by them.
+
+-8. Stack using list:- This project uses list as stack, and with the help of functions, we are able to achieve the operations of a stack like push, pop, peek, etc.
