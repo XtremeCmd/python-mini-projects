@@ -15,4 +15,7 @@
 
 -7. Student grade analyzer:- this project uses the topic of list comprehension and conditionals to grade students as per the marks scored by them.
 
--8. Stack using list:- This project uses list as stack, and with the help of functions, we are able to achieve the operations of a stack like push, pop, peek, etc.
+-8. Stack using list:- This project uses list as stack, and with the help of functions, we are able to achieve the operations of a stack like push, pop, peek, etc. Follow First In Last Out Principle (FILO).
+Queue using list:- This is quite similar to the stack project, with the slight change of function names and follows the First In First Out Principle (FIFO).
+
+
