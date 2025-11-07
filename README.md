@@ -19,4 +19,4 @@
 
 -8.5 Queue using list:- This is quite similar to the stack project, with the slight change of function names and follows the First In First Out Principle (FIFO).
 
-9. Music playlist analyzer:- Analysis songs based on their rating and return a list of highest rated songs along with duration of the playlist, super useful while making a playlist. It uses the topics of 1. List comprehension 2. Reduce 3. Map 4. Filter.
+-9. Music playlist analyzer:- Analysis songs based on their rating and return a list of highest rated songs along with duration of the playlist, super useful while making a playlist. It uses the topics of 1. List comprehension 2. Reduce 3. Map 4. Filter.
