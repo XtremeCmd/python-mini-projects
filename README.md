@@ -22,3 +22,5 @@
 -9. Music playlist analyzer:- Analysis songs based on their rating and return a list of highest rated songs along with duration of the playlist, super useful while making a playlist. It uses the topics of 1. List comprehension 2. Reduce 3. Map 4. Filter.
 
 -10. Bank Account using oop:- A bank account program that can perform functions like deposit and withdraw using the simplest of OOPs concepts like classes and objects.
+
+-11. Encapsulated Bank Account:- This program is similar to the previous program but with the extesion of encapsulation. 
