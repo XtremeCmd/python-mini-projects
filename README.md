@@ -24,3 +24,5 @@
 -10. Bank Account using oop:- A bank account program that can perform functions like deposit and withdraw using the simplest of OOPs concepts like classes and objects.
 
 -11. Encapsulated Bank Account:- This program is similar to the previous program but with the extesion of encapsulation. 
+
+-12. Vehicle rental service:- Uses all concepts of Object Oriented Programming, especially the four pillars of OOP i.e, Encapsulation 2. Polymorphism 3. Inheritance 4. Abstraction. One project to contain them ALL. 
