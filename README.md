@@ -28,3 +28,5 @@
 -12. Vehicle rental service:- Uses all concepts of Object Oriented Programming, especially the four pillars of OOP i.e, Encapsulation 2. Polymorphism 3. Inheritance 4. Abstraction. One project to contain them ALL. 
 
 -13. age checker program:- uses a made up class of age can't be negative and extends to the Exception class, this program also uses the try and except keywords to handle the error that is being raised.
+
+-14. matrix algebra program:- This program takes two 3 x 3 standard matrices as input and performs four matrix operations, namely addition, subtraction, multiplication and determinant all using the Numpy library.
