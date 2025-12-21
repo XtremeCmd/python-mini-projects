@@ -30,3 +30,5 @@
 -13. age checker program:- uses a made up class of age can't be negative and extends to the Exception class, this program also uses the try and except keywords to handle the error that is being raised.
 
 -14. matrix algebra program:- This program takes two 3 x 3 standard matrices as input and performs four matrix operations, namely addition, subtraction, multiplication and determinant all using the Numpy library.
+
+-15. Students marks analysis using numpy:- This program uses a 2-d numpy array, with rows representing students and columns representing marks scored by those students. It analyzes mean, max, min, average marks of the students, average marks per subject, and lots of other things.
